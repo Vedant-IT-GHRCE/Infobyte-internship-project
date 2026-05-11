@@ -19,9 +19,7 @@ public class ATM {
         this.transactionHistory = new ArrayList<>();
     }
 
-    // ─────────────────────────────────────────
-    //  START
-    // ─────────────────────────────────────────
+    
     public void start() {
         printWelcomeBanner();
 
@@ -39,9 +37,7 @@ public class ATM {
         scanner.close();
     }
 
-    // ─────────────────────────────────────────
-    //  LOGIN
-    // ─────────────────────────────────────────
+    
     private boolean login() {
         System.out.print("\n  Enter Account Number: ");
         String accNo = scanner.nextLine().trim();
@@ -72,9 +68,7 @@ public class ATM {
         return false;
     }
 
-    // ─────────────────────────────────────────
-    //  MAIN MENU
-    // ─────────────────────────────────────────
+    
     private void showMenu() {
         while (true) {
             printMenu();
@@ -96,9 +90,7 @@ public class ATM {
         }
     }
 
-    // ─────────────────────────────────────────
-    //  OPERATIONS
-    // ─────────────────────────────────────────
+    
     private void checkBalance() {
         double bal = currentAccount.getBalance();
         System.out.println("\n  ┌─────────────────────────────────┐");
@@ -148,9 +140,7 @@ public class ATM {
         System.out.println("  ────────────────────────────────────────────────────");
     }
 
-    // ─────────────────────────────────────────
-    //  HELPERS
-    // ─────────────────────────────────────────
+    
     private double readAmount() {
         try {
             double val = Double.parseDouble(scanner.nextLine().trim());
@@ -170,9 +160,9 @@ public class ATM {
         System.out.println("  ╚══════════════════════════════════════╝");
         System.out.println();
         System.out.println("  Demo Accounts:");
-        System.out.println("  Acc: 1001  PIN: 1234  (Ravi Sharma)");
-        System.out.println("  Acc: 1002  PIN: 5678  (Priya Mehta)");
-        System.out.println("  Acc: 1003  PIN: 9999  (Amit Kumar)");
+        System.out.println("  Acc: 0121  PIN: 2006  (Vedant Raut)");
+        System.out.println("  Acc: 0122  PIN: 1985  (Hemraj Raut)");
+        System.out.println("  Acc: 0123  PIN: 1990  (Sushma Raut)");
         System.out.println();
     }
 
