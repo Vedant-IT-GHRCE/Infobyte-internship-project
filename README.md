@@ -29,9 +29,9 @@ Run `Main.java`
 ---
 🧾 Demo Accounts (Pre-loaded)
 Account No	PIN	Holder Name	Balance
-1001	1234	Ravi Sharma	Rs 50,000
-1002	5678	Priya Mehta	Rs 25,000
-1003	9999	Amit Kumar	Rs 1,00,000
+0121	2006	Vedant Raut	Rs 25000
+0122	1985	Hemraj Raut Rs 100000
+0123	1990	Sushma Raut	Rs 50000
 ---
 ✅ Features
 🔐 Login with Account Number + PIN
@@ -62,9 +62,9 @@ String.format	Formatted console output
   ║     Insert Card to Get Started       ║
   ╚══════════════════════════════════════╝
 
-  Enter Account Number: 1001
-  Enter PIN: 1234
-  ✓ Welcome, Ravi Sharma!
+  Enter Account Number: 0121
+  Enter PIN: 2006
+  ✓ Welcome, Vedant Raut !
 
   ┌──────────────────────────┐
   │        ATM MENU          │
