@@ -42,19 +42,17 @@ Account No	PIN	Holder Name	Balance
 📋 Mini Statement — shows all transactions of current session with timestamp
 🚪 Exit / Eject Card and switch accounts
 ---
-🧠 Core Java Concepts Used
-Concept	Where Used
-Classes & Objects	Account, Bank, ATM, Transaction
-Encapsulation	Private fields + getters/setters
-HashMap	Bank stores accounts by account no
-ArrayList	Transaction history per session
-Scanner	Console input from user
-Loops & Conditionals	Menu navigation, PIN retry logic
-String methods	PIN comparison, input parsing
-Exception Handling	Invalid amount input (try-catch)
-LocalDateTime	Transaction timestamps
-String.format	Formatted console output
+🧠 Core Concepts Implemented
+Classes & Objects
+Encapsulation
+HashMap & ArrayList
+Loops and Conditional Statements
+Exception Handling
+LocalDateTime API
 ---
+📌 Project Objective
+
+The objective of this project is to understand and implement real-world banking operations using Core Java concepts in a simple ATM simulation system.
 📸 Sample Output
 ```
   ╔══════════════════════════════════════╗
