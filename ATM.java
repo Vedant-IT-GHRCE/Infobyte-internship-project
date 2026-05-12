@@ -160,9 +160,9 @@ public class ATM {
         System.out.println("  ╚══════════════════════════════════════╝");
         System.out.println();
         System.out.println("  Demo Accounts:");
-        System.out.println("  Acc: 0121  PIN: 2006  (Vedant Raut)");
-        System.out.println("  Acc: 0122  PIN: 1985  (Hemraj Raut)");
-        System.out.println("  Acc: 0123  PIN: 1990  (Sushma Raut)");
+        System.out.println("  Acc: 1001  PIN: 2006  (Vedant Raut)");
+        System.out.println("  Acc: 1002  PIN: 1985  (Hemraj Raut)");
+        System.out.println("  Acc: 1003  PIN: 1990  (Sushma Raut)");
         System.out.println();
     }
 
