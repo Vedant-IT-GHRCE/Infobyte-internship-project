@@ -79,3 +79,10 @@ The objective of this project is to understand and implement real-world banking 
   │  Available Balance: Rs 50000.00 │
   └─────────────────────────────────┘
 ```
+<img width="1918" height="1018" alt="Screenshot 2026-05-12 122756" src="https://github.com/user-attachments/assets/fa02d13c-1084-44a7-9546-e37de1bb4c0e" />
+<img width="1918" height="1007" alt="Screenshot 2026-05-12 122839" src="https://github.com/user-attachments/assets/3a08f389-7d03-46a2-a287-e9eff83541d1" />
+<img width="1915" height="1020" alt="Screenshot 2026-05-12 122813" src="https://github.com/user-attachments/assets/0eeefa66-67e6-45a9-bd6e-843c84128a62" />
+<img width="1918" height="1031" alt="Screenshot 2026-05-12 122904" src="https://github.com/user-attachments/assets/6c4f21ca-84b0-4365-863b-de7ed71cc9b3" />
+<img width="1912" height="1025" alt="Screenshot 2026-05-12 122922" src="https://github.com/user-attachments/assets/2d90a606-9006-427d-bfc4-184847c4a76b" />
+
+
